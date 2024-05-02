@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevalnai
-- 👀 I’m interested in game development
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning unity along with web developemnt
 - 💞️ I’m looking to collaborate and working with any projects in any category
 - 📫 you can reach me on my email:- kevalnai1504@gmail.com
