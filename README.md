@@ -3,13 +3,13 @@ I'm a passionate Full Stack Developer based in Waterloo, ON, with hands-on exper
 
 Tech Stack:
 
-🌐 Frontend: HTML, CSS, JavaScript, React, Flutter
+🌐 Frontend: HTML, CSS, JavaScript, 
 
 🛠️ Backend: Node.js, Express, Java, C#, ASP.NET MVC
 
 🗄️ Databases: MongoDB, MySQL, SQL Server, Firestore
 
-🧪 Tools: Git, Postman, Figma, Jira
+🧪 Tools: Git, Postman
 
 🚀 Current Focus:
 
